@@ -73,7 +73,6 @@ module SupportsFeatureMixin
     :cinder_service             => 'Cinder storage service',
     :create_floating_ip         => 'Floating IP Creation',
     :create_host_aggregate      => 'Host Aggregate Creation',
-    :create_network_router      => 'Network Router Creation',
     :create_security_group      => 'Security Group Creation',
     :console                    => 'Remote Console',
     :external_logging           => 'Launch External Logging UI',
